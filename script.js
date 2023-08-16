@@ -16,5 +16,12 @@ cancel.addEventListener('click', function () {
 })
 
 
+var step = 100;
+var stepFilter = 60;
+var scrolling = true;
+
+
+
+
 
 
